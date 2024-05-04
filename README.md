@@ -1,10 +1,10 @@
 # Awesome_Chocolate_business_performance_dashboard-Power_BI
 
-## This dashboard was designed and developed under partcipation of a competition organized by chandoo.org. Dataset was provided as part of the competition.
+## This dashboard was designed and developed under participation of a competition organized by chandoo.org. The dataset was provided as part of the competition.
 
 ![Awesome Chocolate Dashboard](https://github.com/towhidrazu/Awesome_Chocolate_business_performance_dashboard-Power_BI/blob/main/Awesome%20Chocolate%20Dashboard.jpg)
 
-In this project I developed a dynamic and interactive dashboard in Power BI of a fictitious company named 'Awesome Chocolate' who sales chocolate products across the globe. 
+In this project I developed a dynamic and interactive dashboard in Power BI of a fictitious company named 'Awesome Chocolate' which sells chocolate products across the globe. 
 
 Acknowledgement: The dataset used here was provided by chandoo.org under the competition.
 
